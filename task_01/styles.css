@@ -25,7 +25,7 @@ body {
     border-bottom: 4px solid rgb(99, 132, 227)
 }
 
-div {
+.results, .images  {
 	margin-left: 50px;
 }
 
@@ -36,9 +36,18 @@ div {
 .name {
 	color: rgb(55, 47, 122);
 	font-size: 20px;
+	margin-bottom: -2px;
 }
 
 .link {
 	color: rgb(87, 126, 108);
 	font-size: 16px;
+}
+
+.space {
+	margin-bottom: 20px;
+}
+
+.space2 {
+	margin-bottom: 40px;
 }
